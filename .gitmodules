@@ -40,6 +40,4 @@
 [submodule "hardware/nvidia/platform/t18x/quill"]
 	path = hardware/nvidia/platform/t18x/quill
 	url = http://github.com/InES-HPMM/linux-l4t-4.4-hardware-t18x-quill.git
-[submodule "kernel/kernel-4.4"]
-	path = kernel/kernel-4.4
-	url = https://github.com/InES-HPMM/linux-l4t-4.4-kernel.git
+	
